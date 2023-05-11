@@ -13,6 +13,7 @@ const Logo: FC = () => {
 				height={34}
 				alt="Online cinema"
 				draggable={false}
+				priority={true}
 			/>
 		</Link>
 	)
